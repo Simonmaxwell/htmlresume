@@ -1,0 +1,14 @@
+body{
+	padding: 1rem;
+	background: lightgrey;
+}
+.photo{
+	float: right;
+	padding: 1rem;
+}
+
+.work-item{
+	-webkit-margin-start: 0px; 
+	width: 20rem;
+}
+
